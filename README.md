@@ -1,2 +1,2 @@
 # Garaza
-Projekt vaj ki so bile oddane v vajo 37.
+Java project for the grade.
